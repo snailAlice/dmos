@@ -40,7 +40,7 @@ changelog:
 #    goos: linux
 #    goarch: amd64
 #    binaries:
-#      - sealos
+#      - dmos
 #
 #    image_templates:
 #      - "fanux/{{.ProjectName}}:latest"
